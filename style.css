@@ -1,0 +1,31 @@
+/* style.css dosyası */
+
+h1 {
+  color: darkgreen;
+  font-size: 40px;
+}
+
+h2, h3 {
+  color: #4b3621;
+}
+
+p {
+  color: #333;
+  background-color: #e0ffe0;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+}
+
+a {
+  color: brown;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  color: green;
+  background-color: lightyellow;
+  padding: 3px;
+  border-radius: 4px;
+}
