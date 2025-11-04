@@ -23,9 +23,3 @@ a {
   font-weight: bold;
 }
 
-a:hover {
-  color: green;
-  background-color: lightyellow;
-  padding: 3px;
-  border-radius: 4px;
-}
